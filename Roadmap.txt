@@ -1,0 +1,6 @@
+mengerti bahasa pemrograman dart dasar
+mengerti dart oop
+dart generic
+dart package
+dart unit test
+dart asyn
