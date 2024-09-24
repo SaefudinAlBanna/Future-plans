@@ -20,3 +20,5 @@ dart generic
 dart package (sebelum melangkah ke dart package, difahami terlebih dari git & github)
 dart unit test
 dart asyn
+
+[berarti untuk mengedit, sesuaikan editan, karena akan dikeluarkan sesuai dengan apa yang ada, sebelum di konfirmasi]
