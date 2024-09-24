@@ -1,6 +1,8 @@
 mengerti bahasa pemrograman dart dasar
 * difahmi benar2 dart dasar, sampai paling tidak mengerti konsepnya
 * diulang berkali2
+* latihan juga berkali2
+* memulai dengan kasus project sederhana
 mengerti dart oop
 * difahami benar2 oop dart
 * diulang berkali2 untuk penjelasan dan latihanya
