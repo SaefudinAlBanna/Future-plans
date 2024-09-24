@@ -1,6 +1,10 @@
 mengerti bahasa pemrograman dart dasar
+* difahmi benar2 dart dasar, sampai paling tidak mengerti konsepnya
+* diulang berkali2
 mengerti dart oop
+* difahami benar2 oop dart
+* diulang berkali2 untuk penjelasan dan latihanya
 dart generic
-dart package
+dart package (sebelum melangkah ke dart package, difahami terlebih dari git & github)
 dart unit test
 dart asyn
