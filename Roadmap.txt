@@ -6,6 +6,8 @@ mengerti bahasa pemrograman dart dasar
 mengerti dart oop
 * difahami benar2 oop dart
 * diulang berkali2 untuk penjelasan dan latihanya
+* mulai dengan berbagai macam contoh kasus yang simple sampai yang memang nanti untuk project
+* memulai dengan trial error
 dart generic
 dart package (sebelum melangkah ke dart package, difahami terlebih dari git & github)
 dart unit test
